@@ -1,0 +1,9 @@
+.bordas-laterais{ border: 3px solid black;
+}
+.arredondamento{ border-radius: 50px;
+}
+.arredondamento-img{
+    border-radius: 50%;
+}
+.rodape li{ border:none;
+}

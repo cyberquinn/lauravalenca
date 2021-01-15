@@ -1,0 +1,17 @@
+
+
+/* 
+    Created on : 03/12/2020, 10:05:03
+    Author     : PROGR WEB - MANHA
+*/
+
+.arredondamento{
+    border-radius:30px;
+   
+}
+
+.arredondamento-botao-btn{
+    border-radius:30px;
+    box-shadow: 2px 2px 8px blue;
+   
+}

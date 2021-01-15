@@ -1,0 +1,15 @@
+
+/* 
+    Created on : 03/12/2020, 09:55:04
+    Author     : PROG WEB - MANHA
+*/
+    
+
+.arredondamento{
+    border-radius: 30px;
+}
+
+.arredondamento-btn{
+    border-radius: 50px;
+    box-shadow: 2px 2px 8px red
+}
